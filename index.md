@@ -1,5 +1,5 @@
 ---
-layout: default  21
+layout: default
 ---
 
 22222222222
