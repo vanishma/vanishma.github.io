@@ -1,14 +1,14 @@
 {
     "name": "by-blog",
     "title": "BY Blog",
-    "author": "BY <maqinghua02@126.com>",
+    "author": "BY <qiubaiyingios@163.com>",
     "version": "1.7.0",
-    "homepage": "https://vanishma.github.io",
+    "homepage": "http://qiubaiying.github.io",
     "repository": {
         "type": "git",
-        "url": "https://vanishma.github.io"
+        "url": "https://github.com/qiubaiying/qiubaiying.github.io"
     },
-    "bugs": "https://vanishma.github.io",
+    "bugs": "https://github.com/qiubaiying/qiubaiying.github.io/issues",
     "devDependencies": {
         "grunt": "~0.4.5",
         "grunt-contrib-less": "~0.11.4",
