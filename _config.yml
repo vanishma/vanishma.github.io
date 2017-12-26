@@ -63,6 +63,16 @@ featured-condition-size: 0              # 相同标签数量大于这个数，�
 chrome-tab-theme-color: "#000000"
 service-worker: true
 
+# Gitalk
+gitalk:
+  enable: true    #是否开启Gitalk评论
+  clientID: 1622ca9bf9f40836c6a8   #生成的clientID
+  clientSecret: dc4cadc207a55d1b5d5150f25da66d0d351c8e30  #同上
+  repo: vanishma.github.io    #仓库名称
+  owner: vanishma    #github用户名
+  admin: vanishma
+distractionFreeMode: true #是否启用类似FB的阴影遮罩
+
 # Friends
 friends: [
     {
