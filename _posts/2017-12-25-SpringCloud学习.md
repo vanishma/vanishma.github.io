@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Spring Cloud
-subtitle: java 线程
+subtitle: java 框架
 date: 2017-12-25
 author: vanish
 header-img: img/post-bg-ios9-web.jpg
@@ -11,7 +11,9 @@ tags:
   - Spring
   - Cloud
   - 学习
+  - 框架
 ---
+
 ## Spring Cloud 
 1 建立服务端
 pom 增加
