@@ -71,7 +71,7 @@ gitalk:
   repo: vanishma.github.io    #仓库名称
   owner: vanishma    #github用户名
   admin: vanishma
-distractionFreeMode: true #是否启用类似FB的阴影遮罩
+  distractionFreeMode: true #是否启用类似FB的阴影遮罩
 
 # Friends
 friends: [
