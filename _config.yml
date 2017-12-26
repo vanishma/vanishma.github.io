@@ -66,8 +66,8 @@ service-worker: true
 # Gitalk
 gitalk:
   enable: true    #是否开启Gitalk评论
-  clientID: 1622ca9bf9f40836c6a8   #生成的clientID
-  clientSecret: dc4cadc207a55d1b5d5150f25da66d0d351c8e30  #同上
+  clientID: 85feb0d7dc60a93fa4aa   #生成的clientID
+  clientSecret: a63f7a1e5c5212b5c2cbd58e71535cd1b98afc93  #同上
   repo: vanishma.github.io    #仓库名称
   owner: vanishma    #github用户名
   admin: vanishma
