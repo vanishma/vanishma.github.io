@@ -16,12 +16,12 @@ sidebar-avatar: /img/timg.gif      # use absolute URL, seeing it's used in both 
 
 # SNS settings
 RSS: false
-# weibo_username:     
-#zhihu_username:     
-github_username:  vanishma
+#weibo_username:     
+#zhihu_username:
+github_username: vanishma
 #facebook_username:  
 #jianshu_username:   
-#twitter_username:   
+twitter_username: vanishxiao
 
 # Build settings
 # from 2016, 'pygments' is unsupported on GitHub Pages. Use 'rouge' for highlighting instead.
