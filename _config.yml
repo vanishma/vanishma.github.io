@@ -6,7 +6,7 @@ email: maqinghua02@gmail.com
 description: "我的博客"
 keyword: "java，小马"
 url: "https://vanishma.github.io/"          # your host, for absolute URL
-baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
+baseurl: "a/a/a"      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/vanishma/vanishma.github.io" # you code repository
 
 # Sidebar settings
